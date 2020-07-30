@@ -14,10 +14,10 @@ const sagaMiddleware = createSagaMiddleware()
 const store = createStore(
   reducer,
   applyMiddleware(sagaMiddleware),
-  sagaMiddleware.run(rootSaga)
 )
 
-sagaMiddleware.run(helloSaga)
+sagaMiddleware.run(rootSaga)
+// sagaMiddleware.run(helloSaga)
 
 const action = type => store.dispatch({type})
 
