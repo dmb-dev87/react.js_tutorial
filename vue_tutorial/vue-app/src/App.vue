@@ -2,11 +2,11 @@
   <div id="app" class="small-container">
     <h1>Employees</h1>
 
-    <employee-form @add:employee="addEmployee" />
+    <employee-form @add-employee="addEmployee" />
     <employee-table 
       :employees="employees" 
-      @delete:employee="deleteEmployee" 
-      @edit:employee="editEmployee"
+      @delete-employee="deleteEmployee" 
+      @edit-employee="editEmployee"
     />
   </div>
 </template>
