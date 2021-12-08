@@ -29,3 +29,17 @@
 - Tutorial URL
 
   https://nishantv.medium.com/instant-crypto-exchange-dapp-ethereum-smart-contracts-a117bc929165
+
+### Build a Mini Buymeacoffee dApp Using Solidity + Ethereum Smart Contract + ReactJs + TailwindCSS
+
+- Project
+  
+  mini-buymeacoffee
+
+- Tutorial URL
+
+  https://olanetsoft.medium.com/build-a-mini-buymeacoffee-dapp-using-solidity-ethereum-smart-contract-reactjs-tailwindcss-33df74345a04
+
+- Contract Address
+
+  https://rinkeby.etherscan.io/address/0x301d3c14376df5a356Ec9c40F82188Fb19728b77
