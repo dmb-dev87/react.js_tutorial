@@ -43,3 +43,7 @@
 - Contract Address
 
   https://rinkeby.etherscan.io/address/0x301d3c14376df5a356Ec9c40F82188Fb19728b77
+
+- Contract Project
+
+  https://github.com/dmb-dev87/solidity_tutorial/tree/main/mini-buymeacoffee-contract
