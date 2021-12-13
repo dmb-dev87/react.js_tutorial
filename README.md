@@ -57,3 +57,13 @@
 - Tutorial URL
 
   https://betterprogramming.pub/blockchain-introduction-using-real-world-dapp-react-solidity-web3-js-546471419955
+
+### Create an app that allows you to list and sell NFTs, in 60 minutes
+
+- Project
+
+  nft-marketplace
+
+- Tutorial URL
+
+  https://medium.com/rarible-dao/create-an-app-that-allows-you-to-list-and-sell-nfts-in-60-minutes-c4ff7b5141a8
