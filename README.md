@@ -58,7 +58,7 @@
 
   https://betterprogramming.pub/blockchain-introduction-using-real-world-dapp-react-solidity-web3-js-546471419955
 
-### Create an app that allows you to list and sell NFTs, in 60 minutes
+### Create an app that allows you to list and sell NFTs
 
 - Project
 
