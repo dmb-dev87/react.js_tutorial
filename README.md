@@ -67,3 +67,13 @@
 - Tutorial URL
 
   https://medium.com/rarible-dao/create-an-app-that-allows-you-to-list-and-sell-nfts-in-60-minutes-c4ff7b5141a8
+
+### Connecting to MetaMask +React.js + Custom Hook + State Management
+
+- Project
+
+  metamask-medium
+
+- Tutorial URL
+
+  https://medium.com/coinmonks/connecting-to-metamask-react-js-custom-hook-state-management-2f1f3203f509
